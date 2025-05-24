@@ -1,0 +1,119 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+body{
+    background-image: url('../img/fondo.jpg');
+    background-size: cover;        /* Cubrir toda la pantalla */
+    background-repeat: no-repeat;  /* Evitar repeticiones */
+    background-position: center;   /* Centrar la imagen */
+}
+
+.content{
+    width: 80%;
+    margin: 20px auto;
+    padding: 20px;
+}
+.c-login{
+    height: 80vh;
+}
+.content-form{
+    width: 35%;
+    background-color: #383636;
+    padding: 20px;
+    margin: 10px auto;
+    border-radius: 10px;
+}
+.content-form form .form-element{
+    padding: 10px;
+    margin-top: 5px;
+    color: #f5efef;
+}
+.content-form form .form-element input{
+    width: 93%;
+    padding: 10px;
+    margin-top: 5px;
+    border: none;
+    border-radius: 5px;
+    
+}
+.btn-submit{
+    background-color: #0e7af5;
+    padding: 10px 20px;
+    border: none;
+    color: #f5efef;
+    border-radius: 5px;
+    margin-top: 20px;
+    margin-right: 20px;
+}
+
+.genero {
+    width: 100%;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 8px;
+    background-color: #f9f9f9;
+    color: #db1111;
+    transition: border-color 0.3s ease, box-shadow 0.3s ease;
+
+}
+.genero:focus {
+    border-color: #4A90E2;
+    outline: none;
+    box-shadow: 0 0 5px rgba(74, 144, 226, 0.5);
+}
+.genero option {
+    background-color: #790133;
+    color: #f7f3f3;
+    padding: 10px;
+}
+
+
+
+.registro-completar{
+    background-color: #383636 !important;
+}
+
+
+.container-index{
+    width: 80%;
+    margin: 10px auto;
+    color: #f5efef;
+    padding: 20px;
+    text-align: center;
+}
+
+.botonera{
+    margin-top: 100px;
+}
+
+
+.iniciar{
+    background-color:#06ad46;
+    color: #f5efef;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    font-size: 18px;
+    margin-right: 20px;
+    box-shadow: 3px 3px 1px rgba(17, 17, 17, 0.5);
+    cursor: pointer;
+
+}
+.registrar{
+    background-color:#0453c9;
+    color: #f5efef;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    font-size: 18px;
+    box-shadow: 3px 3px 1px rgba(17, 17, 17, 0.5);
+    cursor: pointer;
+}
+.titulo{
+    font-size: 2em;
+    color: #ffffff;
+    text-shadow: 3px 3px 1px rgba(17, 17, 17, 1);
+    margin-top: 100px;
+}

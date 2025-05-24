@@ -1,0 +1,11 @@
+Placa	    Marca	    Modelo
+ABC-1234	Toyota	    Corolla
+XYZ-5678	Ford	    Mustang
+DEF-2345	Honda	    Civic
+GHI-6789	BMW	        X5
+JKL-3456	Chevrolet	Malibu
+MNO-7890	Nissan	    Sentra
+PQR-4567	Kia	S       portage
+STU-8901	Hyundai	    Elantra
+VWX-9012	Mazda	    CX-5
+YZA-0123	Volkswagen	Jetta

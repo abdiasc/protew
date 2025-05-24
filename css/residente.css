@@ -1,0 +1,127 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+body{
+    background-image: url('../img/fondo.jpg');
+}
+
+.registro-completar{
+    background-color: #383636 !important;
+    padding: 20px;
+    color: #f5f0f0;
+    width: 30%;
+    margin: 0px auto;
+    border-radius: 10px;
+    margin-top: 50px;
+}
+
+.form-element input{
+    width: 95%;
+    padding: 10px;
+    margin-top: 5px;
+}
+
+
+.btn-submit{
+    background-color: #0e7af5;
+    padding: 10px 20px;
+    border: none;
+    color: #f5efef;
+    border-radius: 5px;
+}
+
+.ms-exito{
+    color: rgb(23, 24, 23); 
+    text-align:center; 
+    background-color:#02cf70;
+    margin: 10px auto;
+    padding: 5px;
+    font-weight: bold;
+    width: 30%;
+    border-radius: 10px;
+    font-size: 12px;
+}
+
+
+.vehiculos{
+    display: flex;
+    padding: 20px;
+    width: 80%;
+    margin: 0px auto;
+    background-color: #383636;
+    color: #f5efef;
+    box-shadow: 5px 5px 0px rgb(255, 255, 255, 0.5 );
+}
+
+.v-element{
+    width: 50%;
+    padding: 10px;
+}
+
+.frm-v input{
+    width: 90%;
+    padding: 10px;
+}
+
+.v-tabla{
+    width: 100%;
+}
+.v-historial{
+    display: flex;
+    padding: 20px;
+    width: 80%;
+    margin: 0px auto;
+    background-color: #383636;
+    color: #f5efef;
+}
+
+.v-historial-element{
+    width: 50%;
+    padding: 10px;
+}
+.v-thistorial{
+    width: 100%;
+}
+
+.datos{
+    padding: 20px;
+    width: 80%;
+    margin: 0px auto;
+    background-color: #383636;
+    color: #f5efef;
+    box-shadow: 5px 5px 0px rgb(255, 255, 255, 0.5 );
+
+}
+
+.btn-enlace{
+    background-color: #b80633;
+    padding: 5px;
+    width: 100px;
+    margin-top: 10px;
+    border-radius: 10px;
+    font-size: 12px;
+    font-weight: bold;
+    text-align: center;
+}
+
+.t-area{
+    width: 90%;
+}
+
+.residente{
+    border-radius: 0px 0px 20px 20px;
+    
+}
+
+.residente-datos{
+    border-radius: 20px 20px 0 0;
+    margin-top: 20px !important;
+}
+
+.v-historial-b{
+    border-radius: 0px 0px 20px 20px;
+    margin-bottom: 20px;
+    box-shadow: 5px 5px 0px rgb(255, 255, 255, 0.5 );
+}
